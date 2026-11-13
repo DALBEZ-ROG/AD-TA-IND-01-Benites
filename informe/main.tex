@@ -1,0 +1,86 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[american,spanish,es-tabla]{babel}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{lmodern}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{enumitem}
+\usepackage{listings}
+\usepackage[backend=biber,style=ieee,autolang=other]{biblatex}
+\usepackage[hidelinks]{hyperref}
+\usepackage{xurl}
+\addbibresource{referencias.bib}
+\DeclareFieldFormat{sentencecase}{#1}
+\lstset{basicstyle=\ttfamily\small,breaklines=true,frame=single,columns=fullflexible}
+
+\newcommand{\repourl}{https://github.com/DALBEZ-ROG/AD-TA-IND-01-Benites}
+
+\begin{document}
+
+\begin{titlepage}
+\centering
+{\Large\bfseries UNIVERSIDAD TÉCNICA ESTATAL DE QUEVEDO\par}
+\vspace{4pt}
+{\large Facultad de Ciencias de la Computación\par}
+{\large Carrera de Software\par}
+\vspace{2cm}
+{\large\bfseries Aplicaciones Distribuidas (ISR-701)\par}
+\vspace{1cm}
+{\Large\bfseries TA-IND-01\par}
+\vspace{4pt}
+{\large Informe académico individual\par}
+\vspace{1.2cm}
+{\LARGE\bfseries Kubernetes frente a Docker Swarm\par}
+\vspace{4pt}
+{\large Análisis crítico de un sistema distribuido real\par}
+\vfill
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{>{\bfseries}r l}
+  Estudiante: & Benites Pérez Dariem Alberto \\
+  Docente: & Gleiston Guerrero Ulloa, PhD \\
+  Nivel y paralelo: & Séptimo nivel, paralelo B \\
+  Fecha: & 15 de noviembre de 2026 \\
+\end{tabular}
+\vfill
+{\bfseries Repositorio:}\\[4pt]
+{\small\url{\repourl}}
+\vspace{1cm}
+\end{titlepage}
+
+\section*{Resumen}
+
+\section{Introducción}
+
+\section{Arquitectura del sistema}
+
+\section{Análisis con los conceptos de la Unidad 1}
+\subsection{Transparencias de distribución}
+\subsection{CAP y PACELC}
+\subsection{Modelos de comunicación}
+\subsection{Tolerancia a fallos}
+
+\section{Experimentación propia}
+
+\section{Ejemplos de mi entorno}
+
+\section{Análisis comparativo}
+
+\section{Postura crítica}
+
+\section{Conclusiones}
+
+\section*{Declaración de uso de inteligencia artificial}
+
+\printbibliography[title={Referencias}]
+
+\appendix
+\section{Esquema inicial a mano}
+\section{Capturas de lectura de las fuentes}
+
+\end{document}
