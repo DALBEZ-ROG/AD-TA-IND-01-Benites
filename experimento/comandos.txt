@@ -1,0 +1,22 @@
+Experimento: caída de un nodo trabajador en el clúster benites
+
+1. Desplegar la aplicación con 4 réplicas
+kubectl create deployment web --image=nginx:alpine --replicas=4
+kubectl rollout status deployment/web
+kubectl get pods -o wide
+
+2. Monitor en una segunda terminal (guarda la salida en experimento/salida-experimento.txt)
+& { while ($true) { $h = Get-Date -Format 'HH:mm:ss'; $e = ((kubectl get node benites-worker --no-headers) -split '\s+')[1]; $l = @("[$h] benites-worker: $e"); $l += kubectl get pods -o wide --no-headers | ForEach-Object { $c = $_ -split '\s+'; "    $($c[0])  $($c[2])  $($c[6])" }; $l | Add-Content -Path experimento\salida-experimento.txt -Encoding UTF8; $l; Start-Sleep -Seconds 5 } }
+
+3. Provocar la falla (T0)
+Get-Date -Format 'HH:mm:ss'
+docker stop benites-worker
+
+4. Observar la detección (T1) y la recuperación (T2) en el monitor
+kubectl get nodes
+kubectl describe node benites-worker | Select-String -Pattern 'Taints|Ready'
+
+5. Devolver el nodo y revisar si los pods se rebalancean
+docker start benites-worker
+kubectl get nodes
+kubectl get pods -o wide
