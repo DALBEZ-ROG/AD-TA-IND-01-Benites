@@ -1,0 +1,702 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{senjab2023}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=853161ea4a652868b84eaa9aff912684}{%
+           family={Senjab},
+           familyi={S\bibinitperiod},
+           given={Khaldoun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=d270bb5390fb6240fa1dd42aadd37a58}{%
+           family={Abbas},
+           familyi={A\bibinitperiod},
+           given={Sohail},
+           giveni={S\bibinitperiod}}}%
+        {{hash=02708ef883215029def6d87c851dfc52}{%
+           family={Ahmed},
+           familyi={A\bibinitperiod},
+           given={Naveed},
+           giveni={N\bibinitperiod}}}%
+        {{hash=e36a9aabc1c2d43a224500bfcdfae866}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Atta\bibnamedelimb ur\bibnamedelima Rehman},
+           giveni={A\bibinitperiod\bibinitdelim u\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd18eb2fb5ad1321a0d8de7077386204}
+      \strng{fullhash}{8181d67b086ebc0030a2cf1f4e65e93b}
+      \strng{fullhashraw}{8181d67b086ebc0030a2cf1f4e65e93b}
+      \strng{bibnamehash}{8181d67b086ebc0030a2cf1f4e65e93b}
+      \strng{authorbibnamehash}{8181d67b086ebc0030a2cf1f4e65e93b}
+      \strng{authornamehash}{bd18eb2fb5ad1321a0d8de7077386204}
+      \strng{authorfullhash}{8181d67b086ebc0030a2cf1f4e65e93b}
+      \strng{authorfullhashraw}{8181d67b086ebc0030a2cf1f4e65e93b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eid}{87}
+      \field{journaltitle}{Journal of Cloud Computing}
+      \field{langid}{american}
+      \field{number}{1}
+      \field{title}{A survey of {Kubernetes} scheduling algorithms}
+      \field{volume}{12}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.1186/s13677-023-00471-1
+      \endverb
+    \endentry
+    \entry{carrion2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=27d2063fbe35543b3165dd8bc67fc563}{%
+           family={Carrión},
+           familyi={C\bibinitperiod},
+           given={Carmen},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{fullhash}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{fullhashraw}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{bibnamehash}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{authorbibnamehash}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{authornamehash}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{authorfullhash}{27d2063fbe35543b3165dd8bc67fc563}
+      \strng{authorfullhashraw}{27d2063fbe35543b3165dd8bc67fc563}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{langid}{american}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{{Kubernetes} Scheduling: Taxonomy, Ongoing Issues and Challenges}
+      \field{volume}{55}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 37}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1145/3539606
+      \endverb
+    \endentry
+    \entry{nicolasplata2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=667252801f5233b02c453138b4c9d11f}{%
+           family={Nicolas-Plata},
+           familyi={N\bibinithyphendelim P\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod}}}%
+        {{hash=86c2f3845ff7fa30b48e37309e4db770}{%
+           family={Gonzalez-Compean},
+           familyi={G\bibinithyphendelim C\bibinitperiod},
+           given={Jose\bibnamedelima Luis},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=3bd5610fdb23039f0702f5d422be3a9f}{%
+           family={Sosa-Sosa},
+           familyi={S\bibinithyphendelim S\bibinitperiod},
+           given={Victor\bibnamedelima Jesus},
+           giveni={V\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{38228f058ad3ed3b9c3dad6dedfb97e1}
+      \strng{fullhash}{3b6bd5ce54ee951958ee8e072f1a7e92}
+      \strng{fullhashraw}{3b6bd5ce54ee951958ee8e072f1a7e92}
+      \strng{bibnamehash}{3b6bd5ce54ee951958ee8e072f1a7e92}
+      \strng{authorbibnamehash}{3b6bd5ce54ee951958ee8e072f1a7e92}
+      \strng{authornamehash}{38228f058ad3ed3b9c3dad6dedfb97e1}
+      \strng{authorfullhash}{3b6bd5ce54ee951958ee8e072f1a7e92}
+      \strng{authorfullhashraw}{3b6bd5ce54ee951958ee8e072f1a7e92}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Cluster Computing}
+      \field{langid}{american}
+      \field{number}{6}
+      \field{title}{A service mesh approach to integrate processing patterns into microservices applications}
+      \field{volume}{27}
+      \field{year}{2024}
+      \field{pages}{7417\bibrangedash 7438}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1007/s10586-024-04342-5
+      \endverb
+    \endentry
+    \entry{swarm_nodes}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4bd3b392874c74fba4ed57a24eae0ac1}{%
+           family={{Docker Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Docker Docs}%
+      }
+      \strng{namehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{fullhash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{fullhashraw}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{bibnamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorbibnamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authornamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorfullhash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorfullhashraw}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{How nodes work}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.docker.com/engine/swarm/how-swarm-mode-works/nodes/
+      \endverb
+      \verb{url}
+      \verb https://docs.docker.com/engine/swarm/how-swarm-mode-works/nodes/
+      \endverb
+    \endentry
+    \entry{k8s_components}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa383893d75216c822915104dee00710}{%
+           family={{The Kubernetes Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kubernetes Documentation}%
+      }
+      \strng{namehash}{aa383893d75216c822915104dee00710}
+      \strng{fullhash}{aa383893d75216c822915104dee00710}
+      \strng{fullhashraw}{aa383893d75216c822915104dee00710}
+      \strng{bibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorbibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authornamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhashraw}{aa383893d75216c822915104dee00710}
+      \field{extraname}{1}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Kubernetes Components}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kubernetes.io/docs/concepts/overview/components/
+      \endverb
+      \verb{url}
+      \verb https://kubernetes.io/docs/concepts/overview/components/
+      \endverb
+    \endentry
+    \entry{k8s_kubelet}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa383893d75216c822915104dee00710}{%
+           family={{The Kubernetes Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kubernetes Documentation}%
+      }
+      \strng{namehash}{aa383893d75216c822915104dee00710}
+      \strng{fullhash}{aa383893d75216c822915104dee00710}
+      \strng{fullhashraw}{aa383893d75216c822915104dee00710}
+      \strng{bibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorbibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authornamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhashraw}{aa383893d75216c822915104dee00710}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Kubelet Configuration (v1beta1)}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kubernetes.io/docs/reference/config-api/kubelet-config.v1beta1/
+      \endverb
+      \verb{url}
+      \verb https://kubernetes.io/docs/reference/config-api/kubelet-config.v1beta1/
+      \endverb
+    \endentry
+    \entry{k8s_nodes}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa383893d75216c822915104dee00710}{%
+           family={{The Kubernetes Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kubernetes Documentation}%
+      }
+      \strng{namehash}{aa383893d75216c822915104dee00710}
+      \strng{fullhash}{aa383893d75216c822915104dee00710}
+      \strng{fullhashraw}{aa383893d75216c822915104dee00710}
+      \strng{bibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorbibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authornamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhashraw}{aa383893d75216c822915104dee00710}
+      \field{extraname}{3}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Nodes}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kubernetes.io/docs/concepts/architecture/nodes/
+      \endverb
+      \verb{url}
+      \verb https://kubernetes.io/docs/concepts/architecture/nodes/
+      \endverb
+    \endentry
+    \entry{k8s_dns}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa383893d75216c822915104dee00710}{%
+           family={{The Kubernetes Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kubernetes Documentation}%
+      }
+      \strng{namehash}{aa383893d75216c822915104dee00710}
+      \strng{fullhash}{aa383893d75216c822915104dee00710}
+      \strng{fullhashraw}{aa383893d75216c822915104dee00710}
+      \strng{bibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorbibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authornamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhashraw}{aa383893d75216c822915104dee00710}
+      \field{extraname}{4}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{{DNS} for Services and Pods}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+      \endverb
+      \verb{url}
+      \verb https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/
+      \endverb
+    \endentry
+    \entry{etcd_api}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=62f267298f9d2561050d0a47259c29f1}{%
+           family={{The etcd Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {etcd Documentation v3.6}%
+      }
+      \strng{namehash}{62f267298f9d2561050d0a47259c29f1}
+      \strng{fullhash}{62f267298f9d2561050d0a47259c29f1}
+      \strng{fullhashraw}{62f267298f9d2561050d0a47259c29f1}
+      \strng{bibnamehash}{62f267298f9d2561050d0a47259c29f1}
+      \strng{authorbibnamehash}{62f267298f9d2561050d0a47259c29f1}
+      \strng{authornamehash}{62f267298f9d2561050d0a47259c29f1}
+      \strng{authorfullhash}{62f267298f9d2561050d0a47259c29f1}
+      \strng{authorfullhashraw}{62f267298f9d2561050d0a47259c29f1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{etcd {API} guarantees}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://etcd.io/docs/v3.6/learning/api_guarantees/
+      \endverb
+      \verb{url}
+      \verb https://etcd.io/docs/v3.6/learning/api_guarantees/
+      \endverb
+    \endentry
+    \entry{abadi2012}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=7f2a4d6d7d7a93ccacddb011cfd8fe52}{%
+           family={Abadi},
+           familyi={A\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{fullhash}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{fullhashraw}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{bibnamehash}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{authorbibnamehash}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{authornamehash}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{authorfullhash}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \strng{authorfullhashraw}{7f2a4d6d7d7a93ccacddb011cfd8fe52}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computer}
+      \field{langid}{american}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Consistency Tradeoffs in Modern Distributed Database System Design: {CAP} is Only Part of the Story}
+      \field{volume}{45}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{pages}{37\bibrangedash 42}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/MC.2012.33
+      \endverb
+    \endentry
+    \entry{swarm_raft}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4bd3b392874c74fba4ed57a24eae0ac1}{%
+           family={{Docker Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Docker Docs}%
+      }
+      \strng{namehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{fullhash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{fullhashraw}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{bibnamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorbibnamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authornamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorfullhash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorfullhashraw}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Raft consensus in swarm mode}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.docker.com/engine/swarm/raft/
+      \endverb
+      \verb{url}
+      \verb https://docs.docker.com/engine/swarm/raft/
+      \endverb
+    \endentry
+    \entry{k8s_kcm}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa383893d75216c822915104dee00710}{%
+           family={{The Kubernetes Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kubernetes Documentation}%
+      }
+      \strng{namehash}{aa383893d75216c822915104dee00710}
+      \strng{fullhash}{aa383893d75216c822915104dee00710}
+      \strng{fullhashraw}{aa383893d75216c822915104dee00710}
+      \strng{bibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorbibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authornamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhashraw}{aa383893d75216c822915104dee00710}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{kube-controller-manager}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
+      \endverb
+      \verb{url}
+      \verb https://kubernetes.io/docs/reference/command-line-tools-reference/kube-controller-manager/
+      \endverb
+    \endentry
+    \entry{k8s_taints}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=aa383893d75216c822915104dee00710}{%
+           family={{The Kubernetes Authors}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Kubernetes Documentation}%
+      }
+      \strng{namehash}{aa383893d75216c822915104dee00710}
+      \strng{fullhash}{aa383893d75216c822915104dee00710}
+      \strng{fullhashraw}{aa383893d75216c822915104dee00710}
+      \strng{bibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorbibnamehash}{aa383893d75216c822915104dee00710}
+      \strng{authornamehash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhash}{aa383893d75216c822915104dee00710}
+      \strng{authorfullhashraw}{aa383893d75216c822915104dee00710}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Taints and Tolerations}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
+      \endverb
+      \verb{url}
+      \verb https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/
+      \endverb
+    \endentry
+    \entry{flora2022}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=0914bff122e14e556573f4553c0c8b32}{%
+           family={Flora},
+           familyi={F\bibinitperiod},
+           given={José},
+           giveni={J\bibinitperiod}}}%
+        {{hash=14413545ca92cb0d3a5bd748f1436442}{%
+           family={Gonçalves},
+           familyi={G\bibinitperiod},
+           given={Paulo},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0ff6fae7dcaa2105ff0f3f90d96c5f3e}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Miguel},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dc7d87177747807264b8d9f312b05546}{%
+           family={Antunes},
+           familyi={A\bibinitperiod},
+           given={Nuno},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{9be0de467aade1f72397d104c2d95811}
+      \strng{fullhash}{a46ab664aabc150bdd2ea7a5874603ab}
+      \strng{fullhashraw}{a46ab664aabc150bdd2ea7a5874603ab}
+      \strng{bibnamehash}{a46ab664aabc150bdd2ea7a5874603ab}
+      \strng{authorbibnamehash}{a46ab664aabc150bdd2ea7a5874603ab}
+      \strng{authornamehash}{9be0de467aade1f72397d104c2d95811}
+      \strng{authorfullhash}{a46ab664aabc150bdd2ea7a5874603ab}
+      \strng{authorfullhashraw}{a46ab664aabc150bdd2ea7a5874603ab}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{langid}{american}
+      \field{title}{A Study on the Aging and Fault Tolerance of Microservices in {Kubernetes}}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{132786\bibrangedash 132799}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2022.3231191
+      \endverb
+    \endentry
+    \entry{datadog2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=73b4fb184a474ef7402fff1830edac09}{%
+           family={Bernaille},
+           familyi={B\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Datadog Engineering Blog}%
+      }
+      \strng{namehash}{73b4fb184a474ef7402fff1830edac09}
+      \strng{fullhash}{73b4fb184a474ef7402fff1830edac09}
+      \strng{fullhashraw}{73b4fb184a474ef7402fff1830edac09}
+      \strng{bibnamehash}{73b4fb184a474ef7402fff1830edac09}
+      \strng{authorbibnamehash}{73b4fb184a474ef7402fff1830edac09}
+      \strng{authornamehash}{73b4fb184a474ef7402fff1830edac09}
+      \strng{authorfullhash}{73b4fb184a474ef7402fff1830edac09}
+      \strng{authorfullhashraw}{73b4fb184a474ef7402fff1830edac09}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{24}
+      \field{langid}{american}
+      \field{month}{5}
+      \field{title}{2023-03-08 incident: A deep dive into the platform-level impact}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/
+      \endverb
+      \verb{url}
+      \verb https://www.datadoghq.com/blog/engineering/2023-03-08-deep-dive-into-platform-level-impact/
+      \endverb
+    \endentry
+    \entry{swarm_concepts}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4bd3b392874c74fba4ed57a24eae0ac1}{%
+           family={{Docker Inc.}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {Docker Docs}%
+      }
+      \strng{namehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{fullhash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{fullhashraw}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{bibnamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorbibnamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authornamehash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorfullhash}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \strng{authorfullhashraw}{4bd3b392874c74fba4ed57a24eae0ac1}
+      \field{extraname}{3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{american}
+      \field{title}{Swarm mode key concepts}
+      \field{urlday}{13}
+      \field{urlmonth}{11}
+      \field{urlyear}{2026}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.docker.com/engine/swarm/key-concepts/
+      \endverb
+      \verb{url}
+      \verb https://docs.docker.com/engine/swarm/key-concepts/
+      \endverb
+    \endentry
+    \entry{higgins2024}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{hash=63f2603b7042c8635aa4a9276098da88}{%
+           family={Higgins},
+           familyi={H\bibinitperiod},
+           given={Travis},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1c2141c2c74326502e620be210accd8a}{%
+           family={Jha},
+           familyi={J\bibinitperiod},
+           given={Devki\bibnamedelima Nandan},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=bc32b24fccdfcdeec5ff0987c56fa552}{%
+           family={Ranjan},
+           familyi={R\bibinitperiod},
+           given={Rajiv},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{7d99683acf074edb8cc6a3b911c4655a}
+      \strng{fullhash}{eb534b83663a0d4485b982b976ccb412}
+      \strng{fullhashraw}{eb534b83663a0d4485b982b976ccb412}
+      \strng{bibnamehash}{eb534b83663a0d4485b982b976ccb412}
+      \strng{authorbibnamehash}{eb534b83663a0d4485b982b976ccb412}
+      \strng{authornamehash}{7d99683acf074edb8cc6a3b911c4655a}
+      \strng{authorfullhash}{eb534b83663a0d4485b982b976ccb412}
+      \strng{authorfullhashraw}{eb534b83663a0d4485b982b976ccb412}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 33rd International Symposium on High-Performance Parallel and Distributed Computing (HPDC '24)}
+      \field{langid}{american}
+      \field{month}{6}
+      \field{title}{Swarm Storm: An Automated Chaos Tool for {Docker Swarm} Applications}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{367\bibrangedash 369}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1145/3625549.3658827
+      \endverb
+    \endentry
+    \entry{blinowski2022}{article}{}{}
+      \name{author}{3}{}{%
+        {{hash=551994bb3af7cc01cbe7d35bf8a39837}{%
+           family={Blinowski},
+           familyi={B\bibinitperiod},
+           given={Grzegorz},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b52b1becb70383aa456df2261ba629ad}{%
+           family={Ojdowska},
+           familyi={O\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=5eb6c3eaafc04535852773f48d21253e}{%
+           family={Przybyłek},
+           familyi={P\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{680a1966f5d5167605f0ef7852e01e99}
+      \strng{fullhash}{31503060b9f18d0e46979405a7659cbc}
+      \strng{fullhashraw}{31503060b9f18d0e46979405a7659cbc}
+      \strng{bibnamehash}{31503060b9f18d0e46979405a7659cbc}
+      \strng{authorbibnamehash}{31503060b9f18d0e46979405a7659cbc}
+      \strng{authornamehash}{680a1966f5d5167605f0ef7852e01e99}
+      \strng{authorfullhash}{31503060b9f18d0e46979405a7659cbc}
+      \strng{authorfullhashraw}{31503060b9f18d0e46979405a7659cbc}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Access}
+      \field{langid}{american}
+      \field{title}{Monolithic vs. Microservice Architecture: A Performance and Scalability Evaluation}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{20357\bibrangedash 20374}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2022.3152803
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
